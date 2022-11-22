@@ -388,6 +388,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VoiceSDK.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VoiceSDK.Runtime.ref.dll"
+"Assets/assets_dowloaded/UnityFurURP-main/UnityFurURP-main/Assets/Fur/Scripts/FurMover.cs"
+"Assets/assets_dowloaded/UnityFurURP-main/UnityFurURP-main/Assets/Fur/Scripts/MoveAndRotateObject.cs"
+"Assets/assets_dowloaded/UnityFurURP-main/UnityFurURP-main/Assets/Scripts/SimpleCameraController.cs"
+"Assets/assets_dowloaded/UnityFurURP-main/UnityFurURP-main/Assets/TutorialInfo/Scripts/Readme.cs"
 "Assets/Oculus/SampleFramework/Core/CustomHands/Scripts/Hand.cs"
 "Assets/Oculus/SampleFramework/Core/CustomHands/Scripts/HandPose.cs"
 "Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/DebugUIBuilder.cs"
@@ -511,6 +515,7 @@
 "Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Scripts/SpatialAnchorSession.cs"
 "Assets/Oculus/SampleFramework/Usage/StartScene/Scripts/StartMenu.cs"
 "Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs"
+"Assets/shdaer/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs"
 -langversion:9.0
 
 /deterministic
